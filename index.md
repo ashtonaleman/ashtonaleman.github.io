@@ -3,6 +3,10 @@
 
 I am a computer science major at CSUF and I plan on graduating in 2028.
 
+## Computer Science Projects 
+
+My Github page is https://github.com/ashtonaleman
+
 ## Favorite CPSC 120L Labs
 
 * Lab 2 part 1
